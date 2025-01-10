@@ -1,5 +1,4 @@
-# Urban Accessibility Analysis Using H3 Grid 🌍:computer:
-
+# Urban Accessibility Analysis Using H3 Grid 🌍 💻  📁 
 ## Project Overview
 
 This project analyzes urban accessibility in New York City by examining the availability of essential amenities such as schools, subway entrances, bike paths, and parks using the H3 hexagonal grid system.
@@ -10,7 +9,7 @@ This project analyzes urban accessibility in New York City by examining the avai
 - **Spatial Analysis**: Conducted spatial analyses using buffer zones and H3 grids to assess accessibility.
 - **Data Visualization**: Created interactive maps using Leafmap to visualize accessibility scores.
 
-## Key Concepts
+## Key Concepts  📒 
 
 - **H3 Grid System**: Utilized the H3 hexagonal grid for efficient spatial analysis and aggregation of neighborhood data.
 - **Buffer Analysis**: Analyzed amenities within specified distances to understand access levels.
